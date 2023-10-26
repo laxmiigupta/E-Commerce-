@@ -6,7 +6,7 @@
     align-items: center;
     justify-content: center;
     margin: auto;
-    padding:  0 px 140px;
+    padding:  0px 140px;
     margin-top: 150px;
     background: linear-gradient(180deg, #fde1ff, #e1ffea22 60%);
     gap: 30px;
@@ -47,4 +47,6 @@
     height: 70px;
     background: black;
     color: white;
+    font-size: 16px;
+    cursor: pointer;
 }
